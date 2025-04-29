@@ -21,10 +21,10 @@ A simple and interactive web application built with **HTML**, **CSS**, and **Jav
 ![Main UI](output/main_page.png)
 
 ### 🔹 Project Added with Progress Bar
-![Project Row](screenshots/project_row.png)
+![Project Row](output/progress_tracker.png)
 
 ### 🔹 Task List and Actions
-![Task List](screenshots/task_list.png)
+![Task List](output/task_tracker.png)
 
 > 💡 Store screenshots in a `screenshots/` folder at the root of your repository.
 
