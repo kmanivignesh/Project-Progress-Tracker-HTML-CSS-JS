@@ -18,7 +18,7 @@ A simple and interactive web application built with **HTML**, **CSS**, and **Jav
 ## 📷 Screenshots
 
 ### 🔹 Main UI
-![Main UI](screenshots/main_ui.png)
+![Main UI](output/main_page.png)
 
 ### 🔹 Project Added with Progress Bar
 ![Project Row](screenshots/project_row.png)
